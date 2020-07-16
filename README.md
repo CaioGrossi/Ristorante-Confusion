@@ -8,3 +8,4 @@ de estudar o framework Bootstrap e suas funcionalidades e classes.
 * Funcionalidade básicas jQuey
 * Npm scripts para build
 * Task runners: Gulp e Grunt
+* Sass e Less
